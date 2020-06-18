@@ -1,0 +1,82 @@
+
+Bienvenido(a) IRCzone.
+
+A continuacion te dare las REGLAS que todos los Helper/SO/CSOp/SRA. tienen que seguir:
+
+1.- Uso de la red y canales de IRCzone:											
+El uso de la red de IRCzone es un privilegio, no un derecho, nuestros operadores de red podran eliminar usuarios de la red de forma temporal o											
+permanente basandonos en el criterio de sana convivencia entre los usuarios y cuando uno o mas usuarios atenten contra estas reglas basicas de											
+nuestra red, una amplia documentacion se encuentra disponible en nuestra web en la seccion de Reglas SAbuse Las sanciones a los usuarios											
+pueden incluir "kills" (desconexiones forzadas), "G-Lines" (baneos del servidor), y suspension de la cuenta de NickServ Las sanciones a los canales											
+pueden incluir la eliminacion de ChanServ de un canal, de forma temporal o permanente, y el cierre de un canal por razones administrativas. Para											
+mas detalle revisar las Reglas SAbuse											
+* Los nicks ofensivos o con tematicas explicitas estan prohibidos en IRCzone.											
+* IRCzone no maneja nicks random, asi que su uso tambien esta restringido.											
+* Las mayusculas como forma de expresion estan prohibidas.											
+											
+2.- Problemas con los Usuarios											
+Se espera del usuario que trate con respeto al Staff y al resto de usuarios de IRCzone. Si crees que otro usuario te esta acosando, utiliza el											
+comando basico de /ignore o si esta en tus posibilidades ser @ de canal, banea a dicho de usuario. Si el ignore (o el ban) esta utilizado de forma											
+razonable y el usuario actua de forma evasiva y continua el acoso, contacta a cualquier IRCop de la red.											
+Si te acosan en un canal y no eres operador de este, solicitada a un operador el baneo de dicho usuario. Si no hay operadores activos, puedes usar											
+/part para abandonar el canal.											
+Si continua el acoso despues de esto, puedes reportar el usuario con cualquier IRCop de la red.											
+											
+3.- Baneos (Bans)											
+La evasion de un Ban no esta permitida.											
+Si un usuario de alguna forma consigue evadir un baneo valido, pidele que pare en una primera instancia.											
+Si despues de esto continua, reporta dicho usuario con un IRCop de la Red.											
+Nota: Baneos a un Nick (nickname!*@*) no se consideran baneos validos.											
+											
+4.- Contenidos ilegales											
+Esta estrictamente prohibido distribuir cualquier tipo de material ilegal/pornografia/datos personales etc.											
+											
+5.- Virus, Gusanos, etc.											
+Los usuarios infectados seran baneados de los servidores de IRCzone por 1 hora para eliminar el virus, si no estan activos y estan dispuestos											
+a eliminarlo, si ves a alguien intentar extender un virus, ponte en contacto con nuestro staff de IRCops rapidamente para tomar acciones al respecto.											
+Los usuarios intentando extender un virus de forma intencionada seran baneados por un tiempo indefinido.											
+											
+6.- Canales											
+El staff de IRCzone tiene el derecho de poder denegar el registro de nuevos canales o bien de cerrar/des registrar un canal, por ejemplo si viola las											
+reglas de la guia del registro de canales. o si se han cometido faltas a las reglas SAbuse que determinen el cierre/negacion de dicho canal.											
+Solo se permite hacer publicidad en otros canales si se tiene permiso de propietario (owner) de ese canal, o si te encuentras en la lista de usuarios de este.											
+Hacer publicidad o dar nivel basandose en el estado de idle esta estrictamente prohibido.											
+											
+7.- Bots											
+Los Bots de Servicio(BotServ) no estan disponible para su uso.											
+											
+8.- Clones											
+IRCzone solo permiten 3 conexiones simultaneas desde una misma ip.											
+Si tienes mas de 3 conexiones, se te aplicara un G-Line automaticamente por una hora, lo que significa que se cortaran todas las conexiones y no											
+podras volver a reconectar hasta que haya expirado el G-Line.											
+Si necesitas mas conexiones, por ejemplo, para algun Bot util o znc provider, puedes solicitar via correo a aob@irczone.net especificando la ip y la											
+razon por la cual necesitas esta excepcion.											
+											
+9. Spam/Inviters											
+Queda prohibido hacer spam de otras redes irc mediante Bots/usuarios normales/clones, tenemos un filtro antispam muy eficiente, pero quien											
+logre evadir dichos filtros, se castigara con gline permanente, y en el caso de ser usuario registrado de IRCZone, perdera todos sus registros ante la red											
+											
+10. Niveles de Castigo											
+* Amonestacion Verbal (Advertencia).											
+* Kick de canal.											
+* Ban de canal.											
+* Gline 15min.											
+* Gline Permanente a todas sus ips + eliminacion de todos los registros ante nickserv/chanserv.	
+
+Las REGLAS tambien las puedes encontrar en la Pagina Web: http://www.irczone.net/
+
+
+Revisado y Modificado en Fecha 03/05/2020
+					
+					
+Escrito por: Heimdal heimdal@irczone.net
+
+					
+Revisado y/o modificado por:					
+Dannyelito   Dannyelito@irczone.net					
+Gabo         gabo@irczone.net					
+Ivan         ivan@cafechat.org					
+Rad          rad@irczone.net					
+					
+Contacto: admin@irczone.net - aob@irczone.net - sabuse@irczone.net					
+
