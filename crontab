@@ -1,0 +1,6 @@
+#Logbot
+5 * * * * bash lccheck
+5 * * * * bash wcheck
+
+#Github
+10 * * * * cd ~/core/ircd; git pull; git add .; git commit -m "Adding from VPS1 Auto-Cron"; git push
