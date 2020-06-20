@@ -1,9 +1,0 @@
-if git diff-index --name-status --exit-code HEAD;
-then
-    echo Git working copy is clean...;
-else
-    echo ;
-    echo ERROR: Git working copy is dirty!;
-    echo Commit your changes and try again.;
-    git add .; git commit -m "Updating Repo Auto"; git push 
-fi;
